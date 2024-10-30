@@ -84,7 +84,7 @@ for element in df.Description:
 
 
 
-
+# new
 # Create New csv file
 def new_csv(file, category_list):
     with open(file,'w') as f:
